@@ -1,0 +1,21 @@
+* [[./NsqerN][NsqrtN]]
+** [[./NsqrtN/MedianRangeIncrement.cc][Median with range increment]]                      :Seerc:Seerc14:NsqrtN:AC:Median:
+Given N numbers find the median with range queries to increment segement value by one
+
+
+* [[./MatrixExponentiation][Matrix Exponentiation]]
+** [[./MatrixExponentiation/StateExponentiation.cc][Matrix as State transition]] :Swerc:Swerc2017:MatrixExponentiation:StateTransition:AC:
+Given 1x2 domino pieces find number of ways to fill a 8xN board
+
+
+* [[./Flows][Flows]]
+** [[./Flows/MinimumCostMatching.cc][Min cost Bipartite Matching]] :Swerc:Swerc2017:Hungarian:Flow:Matching:Minweight:Maxmatching:AC:Bipartite:Mincost:
+
+** [[./Flows/MaxWeightBipartiteMatching.cc][Max Weight Bipartite Matching]] :SCITIES:SPOJ:Bipartite:Matching:Maxcost:AC:
+
+
+* [[./Graphs/][Graphs]]
+** [[./Graphs/VertexInOneSimpleCycle.cc][VertexInOneSimpleCycle.cc]] :Graphs:CycleSpace:SimpleCycle:
+
+* [[./Maths/][Maths]]
+** [[./Maths/PerfectSquareGroup.cc][PerfectSquareGroup.cc]]                         :Maths:Equivalence:Relation:AC:
