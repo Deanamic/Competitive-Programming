@@ -8,4 +8,4 @@ DEBUG = -g -fsanitize=undefined,address
 	g++ $(CXXFLAGS) $< -o $@
 
 clean:
-	rm *.o *.exe
+	fd --type=x --exec-batch=rm

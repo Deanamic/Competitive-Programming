@@ -1,4 +1,1 @@
-*.out
-*Debug.txt
-Hightail/
-./OIE/
+.ccls-cache/

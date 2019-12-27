@@ -1,0 +1,9 @@
+** Observations
+=#pragma GCC optimize("Ofast", "unroll-loops")= seems to run very fast. [[https://codeforces.com/contest/1178/submission/57418510][Example]]
+
+
+** Problems
+*** [[file:CF1178G.cc][CF1178 G]]: The Awesomest vertex :SqrtDecomposition:ConvexHullTrick:Graphs:
+    
+    
+    
